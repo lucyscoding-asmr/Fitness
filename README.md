@@ -1,11 +1,11 @@
 # 🏋️‍♀️ Fitness - Sito Web Vetrina
 
-![Anteprima del sito LineUp Fitness](https://github.com/lucyscoding-asmr/Fitness#:~:text=9%20minutes%20ago-,fitness%20desktop.png,-Add%20files%20via)
+![Anteprima del sito LineUp Fitness](https://github.com/lucyscoding-asmr/Fitness/blob/main/fitness%20desktop.png)
 
 Un sito web moderno e completamente responsive per una palestra fittizia, **"LineUp Fitness Performance"**.  
 Il progetto è stato creato per mostrare competenze nello sviluppo front-end e nel design di siti web orientati al mondo del fitness, con particolare attenzione all’impatto visivo e all’esperienza utente.
 
-**➡️ Visualizza la Live Demo:** []
+**➡️ Visualizza la Live Demo:** [https://fitnessdemowebsite.netlify.app/]
 
 ---
 
