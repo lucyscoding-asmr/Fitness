@@ -710,3 +710,11 @@ VISIBILITÀ MISSION DESKTOP/MOBILE (Correzione)
         display: block; /* MOSTRA la versione mobile */
     }
 }
+
+/* centra solo il bottone senza cambiare l'allineamento del testo */
+.about-text .btn-outline,
+.about-text .btn {
+  display: block;
+  width: max-content; /* compatibile con browser moderni */
+  margin: 1rem auto 0;
+}
